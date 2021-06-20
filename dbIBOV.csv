@@ -1,0 +1,112 @@
+﻿Código;Classificação;Segmento
+ABCB4.SA;banco;financeiro
+BPAC11.SA;banco;financeiro
+BRSR6.SA;banco;financeiro
+BPAN4.SA;banco;financeiro
+BIDI4.SA;banco;financeiro
+BBAS3.SA;banco;financeiro
+BBDC4.SA;banco;financeiro
+ITUB4.SA;banco;financeiro
+ITSA4.SA;banco;financeiro
+SANB11.SA;banco;financeiro
+BBSE3.SA;seguradora;financeiro
+PSSA3.SA;seguradora;financeiro
+SULA11.SA;seguradora;financeiro
+B3SA3.SA;diversos;financeiro
+WIZS3.SA;diversos;financeiro
+BRML3.SA;exploração de imóveis;financeiro
+IGTA3.SA;exploração de imóveis;financeiro
+MULT3.SA;exploração de imóveis;financeiro
+CYRE3.SA;construção civil;consumo cíclico
+DIRR3.SA;construção civil;consumo cíclico
+TRIS3.SA;construção civil;consumo cíclico
+EVEN3.SA;construção civil;consumo cíclico
+EZTC3.SA;construção civil;consumo cíclico
+GFSA3.SA;construção civil;consumo cíclico
+HBOR3.SA;construção civil;consumo cíclico
+JHSF3.SA;construção civil;consumo cíclico
+MRVE3.SA;construção civil;consumo cíclico
+HGTX3.SA;vestuário e calçados;consumo cíclico
+ALPA4.SA;vestuário e calçados;consumo cíclico
+GRND3.SA;vestuário e calçados;consumo cíclico
+VIVA3.SA;vestuário e calçados;consumo cíclico
+MYPK3.SA;automóveis;consumo cíclico
+BKBR3.SA;restaurante;consumo cíclico
+CVCB3.SA;turismo;consumo cíclico
+RENT3.SA;aluguel de carros;consumo cíclico
+LCAM3.SA;aluguel de carros;consumo cíclico
+MOVI3.SA;aluguel de carros;consumo cíclico
+ANIM3.SA;educacional;consumo cíclico
+COGN3.SA;educacional;consumo cíclico
+SEER3.SA;educacional;consumo cíclico
+YDUQ3.SA;educacional;consumo cíclico
+CEAB3.SA;comércio;consumo cíclico
+AMAR3.SA;comércio;consumo cíclico
+LREN3.SA;comércio;consumo cíclico
+LAME4.SA;comércio;consumo cíclico
+MGLU3.SA;comércio;consumo cíclico
+VVAR3.SA;comércio;consumo cíclico
+BTOW3.SA;comércio;consumo cíclico
+SBFG3.SA;comércio;consumo cíclico
+CSAN3.SA;petróleo gás e biocomb.;petróleo gás e biocomb.
+PETR4.SA;petróleo gás e biocomb.;petróleo gás e biocomb.
+PRIO3.SA;petróleo gás e biocomb.;petróleo gás e biocomb.
+UGPA3.SA;petróleo gás e biocomb.;petróleo gás e biocomb.
+ENAT3.SA;petróleo gás e biocomb.;petróleo gás e biocomb.
+BRDT3.SA;petróleo gás e biocomb.;petróleo gás e biocomb.
+SLCE3.SA;agropecuária;consumo não cíclico
+AGRO3.SA;agropecuária;consumo não cíclico
+SMTO3.SA;açucar e alcool;consumo não cíclico
+BRFS3.SA;carnes e derivados;consumo não cíclico
+JBSS3.SA;carnes e derivados;consumo não cíclico
+MRFG3.SA;carnes e derivados;consumo não cíclico
+BEEF3.SA;carnes e derivados;consumo não cíclico
+ABEV3.SA;bebidas;consumo não cíclico
+NTCO3.SA;produtos uso pessoal;consumo não cíclico
+PCAR3.SA;comércio e distribuição;consumo não cíclico
+EMBR3.SA;material transporte;bens industriais
+POMO4.SA;material transporte;bens industriais
+RAPT4.SA;material transporte;bens industriais
+WEGE3.SA;máquinas e equipamentos;bens industriais
+AZUL4.SA;transporte;bens industriais
+GOLL4.SA;transporte;bens industriais
+RAIL3.SA;transporte;bens industriais
+CCRO3.SA;exploração rodovias;bens industriais
+ECOR3.SA;exploração rodovias;bens industriais
+BRAP4.SA;mineração;materiais básicos
+VALE3.SA;mineração;materiais básicos
+CMIN3.SA;mineração;materiais básicos
+GGBR4.SA;siderurgia;materiais básicos
+GOAU4.SA;siderurgia;materiais básicos
+CSNA3.SA;siderurgia;materiais básicos
+USIM5.SA;siderurgia;materiais básicos
+BRKM5.SA;químicos;materiais básicos
+UNIP6.SA;químicos;materiais básicos
+DTEX3.SA;madeira e papel;materiais básicos
+KLBN11.SA;madeira e papel;materiais básicos
+SUZB3.SA;madeira e papel;materiais básicos
+AESB3.SA;energia elétrica;utilidade pública
+ELET3.SA;energia elétrica;utilidade pública
+CESP6.SA;energia elétrica;utilidade pública
+EGIE3.SA;energia elétrica;utilidade pública
+ENBR3.SA;energia elétrica;utilidade pública
+CLPE6.SA;energia elétrica;utilidade pública
+CPFE3.SA;energia elétrica;utilidade pública
+LIGT3.SA;energia elétrica;utilidade pública
+CMIG4.SA;energia elétrica;utilidade pública
+EQTL3.SA;energia elétrica;utilidade pública
+NEOE3.SA;energia elétrica;utilidade pública
+ENEV3.SA;energia elétrica;utilidade pública
+TAEE11.SA;energia elétrica;utilidade pública
+TRPL4.SA;energia elétrica;utilidade pública
+CSMG3.SA;água e saneamento;utilidade pública
+SBSP3.SA;água e saneamento;utilidade pública
+SAPR11.SA;água e saneamento;utilidade pública
+FLRY3.SA;saúde;saúde
+HAPV3.SA;saúde;saúde
+GNDI3.SA;saúde;saúde
+RADL3.SA;saúde;saúde
+LWSA3.SA;ti;ti
+TOTS3.SA;ti;ti
+VIVT3.SA;comunicação;comunicação
+TIMS3.SA;comunicação;comunicação
